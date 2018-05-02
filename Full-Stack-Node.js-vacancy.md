@@ -28,6 +28,6 @@ We are looking for a Senior Full stack Developer works closely with the Product 
 Istanbul, Turkey (We also accept remot)
 
 ## How to apply?
-Finish [this task](https://github.com/Knawat/interviews-challenges/blob/master/Full-Stack-Node.js.md), then us an email hr@knawat.com.
+Finish [this task](https://github.com/Knawat/interviews-challenges/blob/master/Full-Stack-Node.js.md), then send us an email hr@knawat.com.
 
 If you have something similar to the challenge task, just send it at the email.
