@@ -1,4 +1,4 @@
-# Full Stack Node.js developer (MeteorJS)
+# Full Stack JavaScript Developer (MeteorJS)
 
 At Knawat, we are building our SaaS scalable platform, developers here getting enough space to use the cutting edge technologies. Join our multinational team (10 nationalities, 5 languages).
 
