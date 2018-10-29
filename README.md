@@ -10,7 +10,7 @@ Work remote or join our team @ the lovely Istanbul. For the full list click here
 - [Software test Engineer](http://smrtr.io/N-QR)
 - [Junior WordPress Developer](http://smrtr.io/N-QV)
 - [Intern Software Developer](http://smrtr.io/N-Rh)
-- [System Analyst](http://smrtr.io/N-Rm)
+- [System Analyst (ERP)](http://smrtr.io/N-Rm)
 
 We are using Moleculer, Docker, Elasticsearch, ELK Stack, Elastic APM, Jest, Kubernates, Selenium, Ghost Inspector, Redis, NATs, RabbitMQ and maybe some other stuff,
 
