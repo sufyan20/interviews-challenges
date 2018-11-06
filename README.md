@@ -18,5 +18,5 @@ We are using Moleculer, Docker, Elasticsearch, ELK Stack, Elastic APM, Jest, Kub
 
 1. General interview: Exploring your skills and answering your questions about Knawat.
 2. Technical assignment (optional): Validating skils, it is optional if you can share some previous code with us.
-3. Technical Assignment & Life Coding interview: Discussing the previous assignment and do some code together.
+3. Technical Assignment & Live coding interview: Discussing the previous assignment and do some code together.
 4. Culture Fit Interview: Interview with someone from our higher management level preparing to get an offer.
