@@ -14,7 +14,7 @@ Work remote or join our team @ the lovely Istanbul. For the full list click here
 
 We are using Moleculer, Docker, Elasticsearch, ELK Stack, Elastic APM, Jest, Kubernates, Selenium, Ghost Inspector, Redis, NATs, RabbitMQ and maybe some other stuffChck
 
-# Check our interview assignment for [Full Stack](./interviews-challenges/blob/master/Full-Stack-JavaScript.md) & [Back-End](./interviews-challenges/blob/master/Back-End-Node.js.md)
+# >>>>> Check our interview assignment for [Full Stack](https://github.com/Knawat/interviews-challenges/blob/master/Full-Stack-JavaScript.md) & [Back-End](https://github.com/Knawat/interviews-challenges/blob/master/Back-End-Node.js.md) <<<<<
 
 ## Hiring Process for technical positions
 
