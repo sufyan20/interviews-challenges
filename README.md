@@ -1,10 +1,10 @@
 # Knawat is hiring
 
-Work remote or join our team @ the lovely Istanbul. For the full list click here https://careers.smartrecruiters.com/KnawatCo
+Work remote or join our team @ the lovely Istanbul. For the full list click here https://knawat.com/career
 
 ## Open vacancies (Tech)
 
-- [Full Stack Developer - JavaScript (Meteor)](http://smrtr.io/N-QQ)
+- [Full Stack Developer - JavaScript (Meteor & React)](http://smrtr.io/N-QQ)
 - [Back-End Developer - Node.js](http://smrtr.io/N-RJ)
 - [Front-End Developer](http://smrtr.io/N-Q-)
 - [Software test Engineer](http://smrtr.io/N-QR)
@@ -12,7 +12,9 @@ Work remote or join our team @ the lovely Istanbul. For the full list click here
 - [Intern Software Developer](http://smrtr.io/N-Rh)
 - [System Analyst (ERP)](http://smrtr.io/N-Rm)
 
-We are using Moleculer, Docker, Elasticsearch, ELK Stack, Elastic APM, Jest, Kubernates, Selenium, Ghost Inspector, Redis, NATs, RabbitMQ and maybe some other stuff,
+We are using Moleculer, Docker, Elasticsearch, ELK Stack, Elastic APM, Jest, Kubernates, Selenium, Ghost Inspector, Redis, NATs, RabbitMQ and maybe some other stuffChck
+
+# Check our interview assignment for [Full Stack](./interviews-challenges/blob/master/Full-Stack-JavaScript.md) & [Back-End](./interviews-challenges/blob/master/Back-End-Node.js.md)
 
 ## Hiring Process for technical positions
 
