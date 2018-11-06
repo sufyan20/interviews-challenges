@@ -16,13 +16,13 @@ In addition to the functionality, we will also evaluate the code style, code str
 
 ## Backend:
 
-- Use MongoDB as a database.
+- Use Elasticsearch as a database.
 - Unit test with 100% coverage is a required.
 
 ## Docker:
 
 - Each service should run in a separate container.
-- Redis, NATs, and MongoDB each in a separate container.
+- Redis, NATs, and Elasticsearch each in a separate container.
 - Project should run with docker-compose.
 
 ## Readme:
