@@ -2,7 +2,7 @@
 
 # Back-End Developer - Node.js
 
-<strong>TL;DR,</strong> This challenge expects you to build a simple set of services with [Moleculer](https://moleculer.services/) Framework, with Redis as cache, and NATs for transportation.
+<strong>TL;DR,</strong> This challenge expects you to build a simple set of services with [Moleculer](https://moleculer.services/) Framework, with any caching, and messaging systems for transportation.
 
 ## Evaluation criteria:
 
@@ -18,11 +18,13 @@ In addition to the functionality, we will also evaluate the code style, code str
 
 - Use Elasticsearch as a database.
 - Unit test with 100% coverage is a required.
+- You have to use any messaging system for services transportation, NATs, RabbitMQ, Mosquitto ... etc.
 
 ## Docker:
 
 - Each service should run in a separate container.
-- Redis, NATs, and Elasticsearch each in a separate container.
+- Redis, and Elasticsearch each in a separate container.
+- Whatever Messaging system you going to use, it also needs separate container.
 - Project should run with docker-compose.
 
 ## Readme:
@@ -32,4 +34,4 @@ In addition to the functionality, we will also evaluate the code style, code str
 
 ## How to submit?
 
-Clone this repo and create pull request once you feel code is ready.
+Clone this repo and create a pull request once you feel the code is ready.
