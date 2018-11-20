@@ -21,7 +21,7 @@ Layout should be responsive showing desktop version for resolutions greater than
 - The design must have a valid/semantic HTML5.
 - Pick any simple to-do design from the internet
 - Toggle a task should be reactive
-- Use Less and Bootstrap 3.3.7 is required
+- Use Less and Bootstrap is required
 - Using Animate.css is plus
 
 ## Backend:
