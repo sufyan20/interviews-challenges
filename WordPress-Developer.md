@@ -23,4 +23,4 @@ Creating a WordPress (WooCommerce) plugin to create a shortcode in the store tha
 
 
 ## How to submit?
-Clone this repo and create a pull request once you feel the code is ready.
+Fork this repo and create a pull request once you feel the code is ready.
