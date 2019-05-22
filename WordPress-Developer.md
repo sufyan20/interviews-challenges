@@ -16,10 +16,12 @@ Creating a WordPress (WooCommerce) plugin to create a shortcode in the store tha
 - README file contains documentation about the plugin.
 - Provide resources from your search to complete the task.
 - Code readability.
+- Git commits.
 
 ## Plus:
 - The HTML template returned design and style.
 - Functionality performance.
+- Code linting.
 
 
 ## How to submit?
