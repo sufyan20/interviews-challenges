@@ -17,17 +17,17 @@ You can use the demostore credentials:
 
 - A simple page with a list of products, pagination, and a navbar
   - `Navbar`
-  - Has an cart-icon
-  - Cart-icon has a badge with the cart items count
-  - When click on cart-icon, display a dropdown-menu with the current cart products
-  - If there is no products in the cart, show "Cart is empty"
-  - Show a checkout button
+    - Has an cart-icon
+    - Cart-icon has a badge with the cart items count
+    - When click on cart-icon, display a dropdown-menu with the current cart products
+    - If there is no products in the cart, show "Cart is empty"
+    - Show a checkout button
 
   - `Pagination`
-  - Able to navigate between pages
+    - Able to navigate between pages
 
   - `Products list`
-  - List of 10 products fetched from the current store products
+    - List of 10 products fetched from the current store products
 
 - A simple cart page
   - User can list all of his products
