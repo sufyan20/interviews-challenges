@@ -2,13 +2,13 @@
 
 Work remote or join our team @ the lovely Istanbul. For the full list click here https://knawat.com/career
 
-## Open vacancies (Tech)
+## Open vacancies (Software Team)
 
 - [Full Stack Developer - JavaScript (Meteor & React)](http://smrtr.io/N-QQ)
 - [Back-End Developer - Node.js](http://smrtr.io/N-RJ)
 - [Front-End Developer](http://smrtr.io/N-Q-)
 - [Software test Engineer](http://smrtr.io/N-QR)
-- [Junior WordPress Developer](http://smrtr.io/N-QV)
+- [WordPress Developer](http://smrtr.io/N-QV)
 - [Intern Software Developer](http://smrtr.io/N-Rh)
 - [System Analyst (ERP)](http://smrtr.io/N-Rm)
 
