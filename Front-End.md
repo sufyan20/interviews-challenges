@@ -1,4 +1,4 @@
-> **WE ARE HIRING:** [Apply Now](http://smrtr.io/N-RJ).
+> **WE ARE HIRING:** [Apply Now](https://smrtr.io/3JWmT).
 
 # Front-End Developer
 
