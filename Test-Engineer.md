@@ -2,7 +2,10 @@
 
 # Software Test Engineer
 
-<strong>TL;DR,</strong> This challenge expects you to write some e2e tests to accomplish required functionality. You can use any language, assertion framework, etc. It should be based on Selenium, and we prefer running on Chrome.
+<strong>TL;DR,</strong> This challenge expects you to write some e2e tests to accomplish required functionality. You can use any language, assertion framework, etc. We prefer Selenium running on Chrome.
+The challenge has two parts:
+- Testing UI at [Automation Practice](http://automationpractice.com/)
+- Testing rest API on [Fake Rest API](https://fakerestapi.azurewebsites.net/)
 
 ## Evaluation criteria:
 
@@ -10,10 +13,11 @@ In addition to the functionality, we will also evaluate the code style, scenario
 
 ## Tests:
 
-- Test registration to app.knawat.com
-- Complete your profile by logging in app.knawat.com
-- Create 2 web stores (one with CSV, one with Shopify)
-- Archive CSV store
+### First Part:
+- Build an automated test for the website registration make sure to check validations process.
+
+### Second Part:
+- Test Authors endpoints make sure to check the parameters validation and responses.
 
 ## Workflow:
 
