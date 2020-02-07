@@ -4,13 +4,13 @@ Work remote or join our team @ the lovely Istanbul. For the full list click here
 
 ## Open vacancies (Software Team)
 
-- [Full Stack Developer - JavaScript (Meteor & React)](http://smrtr.io/N-QQ)
+- ~~[Full Stack Developer - JavaScript (Meteor & React)](http://smrtr.io/N-QQ)~~
 - [Back-End Developer - Node.js](http://smrtr.io/N-RJ)
 - [Front-End Developer](http://smrtr.io/N-Q-)
 - [Software test Engineer](http://smrtr.io/N-QR)
 - [WordPress Developer](http://smrtr.io/N-QV)
 - [Intern Software Developer](http://smrtr.io/N-Rh)
-- [System Analyst (ERP)](http://smrtr.io/N-Rm)
+- ~~[System Analyst (ERP)](http://smrtr.io/N-Rm)~~
 
 We are using Moleculer, Docker, Elasticsearch, ELK Stack, Elastic APM, Jest, Kubernetes, Selenium, Ghost Inspector, Redis, NATs, RabbitMQ and maybe some other stuff check
 
