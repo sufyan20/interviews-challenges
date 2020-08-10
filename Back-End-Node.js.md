@@ -2,7 +2,8 @@
 
 # Back-End Developer - Node.js
 
-<strong>TL;DR,</strong> This challenge expects you to build a simple set of services with [Moleculer](https://moleculer.services/) Framework, with any caching, and messaging systems for transportation.
+<strong>TL;DR,</strong> This challenge expects you to build a simple set of services with [Moleculer](https://moleculer.services/) Framework, with Redis as a caching system, and any messaging systems for transportation.
+This services should have an API layer for the required functionality listed below.
 
 ## Evaluation criteria:
 
@@ -11,14 +12,14 @@ In addition to the functionality, we will also evaluate the code style, code str
 ## Functionality:
 
 - User can log in & register.
-- User can product to the cart.
+- User can add products to the cart.
 - User can get his cart summary.
 
 ## Backend:
 
 - Use Elasticsearch as a database.
 - Unit test with 100% coverage is a required.
-- You have to use any messaging system for services transportation, NATs, RabbitMQ, Mosquitto ... etc.
+- You have to use any messaging system for services transportation, RabbitMQ, NATs, Mosquitto ... etc.
 
 ## Docker:
 
@@ -29,8 +30,9 @@ In addition to the functionality, we will also evaluate the code style, code str
 
 ## Readme:
 
-- How to scale cart service?
-- Mention some micro-services specific pattern you used and why?
+- Explain how to run the application
+- Requeired environments
+- Any extra information is PLUS
 
 ## How to submit?
 
