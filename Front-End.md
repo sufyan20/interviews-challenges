@@ -4,14 +4,24 @@
 
 ## Introduction
 
-This challenge expects you to build a simple online shopping page, with a basic cart functionality, using Vuejs as the main front-end framework. And fetch products from a Knawat store, using [Knawat MP API](http://docs.knawat.io/).
+This challenge expects you to build a simple online shopping page, with a basic cart functionality, using Vuejs as the main front-end framework. And fetch products from a Knawat store.
 
-You should connect to Knawat dev server: https://dev.mp.knawat.io/api
+## Getting Started
 
-You can use the demostore credentials:
+You can start by checking [Knawat documentation](#knawat-documentation)
+You can create a new store instance our use [the testings store credentials](#the-store-credentials)
+
+### Knawat documentation
+
+- Knawat MP API: `http://docs.knawat.io/`
+- Knawat MP SDK: `https://github.com/Knawat/Knawat-NPM-JavaScript-SDK`
+- Development base url: `https://dev.mp.knawat.io/api`
+
+### The testing store credentials:
+
+- "URL": `https://demostore.knawat.com/`
 - "consumer_key" : `749d9378-3a69-4fbc-8b38-489df242887d`
 - "consumer_secret" : `8c7363bc-d4ac-4367-97e4-ae8cb1c7a432`
-
 
 ## Functionality:
 
@@ -41,19 +51,26 @@ In addition to the functionality, we will also evaluate the code style, code str
 
 - The design must have a valid/semantic HTML5.
 - Pick any simple design, that fulfills functionalities
-- Using Vuejs is required
-
-## Our Front-End Tech Stack:
-
-- (Vuejs)[https://vuejs.org/]
-- (Pugjs)[https://pugjs.org/]
-- (Stylus)[http://stylus-lang.com/]
-- (Meteor)[https://www.meteor.com/]
-- (Vuex)[https://vuex.vuejs.org/]
-- (vuetify)[https://vuetifyjs.com/en/]
-- (Tailwind CSS)[https://tailwindcss.com/]
-- (Fetch API)[https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch]
+- Using Vuejs 3.x or 2.x is mandatory
+- Using Typescript 4.x is mandatory
+- Using [Knawat MP SDK](https://github.com/Knawat/Knawat-NPM-JavaScript-SDK) is mandatory
+- Using SSR is plus
 
 ## How to submit?
 
 Clone this repo and create a pull request once you feel the code is ready.
+
+## Knawat Tech Stack Includes:
+
+- (Vuejs)[https://vuejs.org/]
+- (Meteor)[https://www.meteor.com/]
+- (TypeScript)[https://github.com/microsoft/TypeScript]
+- (Vue-meteor)[https://github.com/meteor-vue/vue-meteor]
+- (Vuex)[https://vuex.vuejs.org/]
+- (Vue-router)[https://github.com/vuejs/vue-router]
+- (Vue-meta)[https://github.com/meteor-vue/vue-meteor/tree/master/packages/vue-ssr]
+- (Vuetify)[https://vuetifyjs.com/en/]
+- (Pugjs)[https://pugjs.org/]
+- (Stylus)[http://stylus-lang.com/]
+- (Tailwind CSS)[https://tailwindcss.com/]
+- (Fetch API)[https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch]
