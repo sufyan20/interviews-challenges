@@ -8,8 +8,8 @@ This challenge expects you to build a simple online shopping page, with a basic
 
 ## Getting Started
 
-You can start by checking [Knawat documentation](#knawat-documentation)
-You can create a new store instance our use [the testings store credentials](#the-store-credentials)
+You can start by checking [Knawat documentation](#knawat-documentation) <br>
+You can create a new store instance our use [the testings store credentials](#the-testing-store-credentials)
 
 ### Knawat documentation
 
@@ -62,15 +62,15 @@ Clone this repo and create a pull request once you feel the code is ready.
 
 ## Knawat Tech Stack Includes:
 
-- (Vuejs)[https://vuejs.org/]
-- (Meteor)[https://www.meteor.com/]
-- (TypeScript)[https://github.com/microsoft/TypeScript]
-- (Vue-meteor)[https://github.com/meteor-vue/vue-meteor]
-- (Vuex)[https://vuex.vuejs.org/]
-- (Vue-router)[https://github.com/vuejs/vue-router]
-- (Vue-meta)[https://github.com/meteor-vue/vue-meteor/tree/master/packages/vue-ssr]
-- (Vuetify)[https://vuetifyjs.com/en/]
-- (Pugjs)[https://pugjs.org/]
-- (Stylus)[http://stylus-lang.com/]
-- (Tailwind CSS)[https://tailwindcss.com/]
-- (Fetch API)[https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch]
+- [Vuejs](https://vuejs.org/)
+- [Meteor](https://www.meteor.com/)
+- [TypeScript](https://github.com/microsoft/TypeScript)
+- [Vue-meteor](https://github.com/meteor-vue/vue-meteor)
+- [Vuex](https://vuex.vuejs.org/)
+- [Vue-router](https://github.com/vuejs/vue-router)
+- [Vue-meta](https://github.com/meteor-vue/vue-meteor/tree/master/packages/vue-ssr)
+- [Vuetify](https://vuetifyjs.com/en/)
+- [Pugjs](https://pugjs.org/)
+- [Stylus](http://stylus-lang.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
