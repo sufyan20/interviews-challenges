@@ -1,4 +1,4 @@
-> **WE ARE HIRING:** [Apply Now](http://smrtr.io/N-RJ).
+> **WE ARE HIRING:** [Apply Now](https://www.knawat.com/career/).
 
 # Back-End Developer - Node.js
 

@@ -1,4 +1,4 @@
-> **WE ARE HIRING:** [Apply Now](https://smrtr.io/3JWmT).
+> **WE ARE HIRING:** [Apply Now](https://www.knawat.com/career/).
 
 # Front-End Developer
 
