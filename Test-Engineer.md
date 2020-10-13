@@ -2,7 +2,8 @@
 
 # Software Test Engineer
 
-<strong>TL;DR,</strong> This challenge expects you to write some e2e tests to accomplish required functionality. You can use any language, assertion framework, etc. We prefer Selenium running on Chrome.
+<strong>TL;DR,</strong> This challenge expects you to write some e2e tests to accomplish required functionality. You can use any JavaScript testing framework, with any assertation and coverage you like while we prefer Jest or Cypress.
+
 The challenge has two parts:
 - Testing UI at [Automation Practice](http://automationpractice.com/)
 - Testing rest API on [Fake Rest API](https://fakerestapi.azurewebsites.net/)
@@ -13,11 +14,11 @@ In addition to the functionality, we will also evaluate the code style, scenario
 
 ## Tests:
 
-### First Part:
-- Build an automated test for the website registration make sure to check validations process.
+### UI Test:
+- Build an automated test for the website registration; make sure to test the field validation.
 
-### Second Part:
-- Test Authors endpoints make sure to check the parameters validation and responses.
+### API Test:
+- Test the Authors endpoints make sure to test the parameter validation and responses.
 
 ## Workflow:
 
@@ -27,4 +28,4 @@ In addition to the functionality, we will also evaluate the code style, scenario
 
 ## How to submit?
 
-Clone this repo and create pull request once you feel the code is ready.
+Clone this repo and create a pull request once you feel the code is ready.
