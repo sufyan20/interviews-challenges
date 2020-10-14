@@ -12,7 +12,7 @@ Work remote or join our team @ the lovely Istanbul. For the full list click here
 - [Intern Software Developer](http://smrtr.io/N-Rh)
 - ~~[System Analyst (ERP)](http://smrtr.io/N-Rm)~~
 
-We are using Moleculer, Docker, Elasticsearch, ELK Stack, Elastic APM, Jest, Kubernetes, Selenium, Ghost Inspector, Redis, NATs, RabbitMQ and maybe some other stuff check
+We are using Moleculer, Docker, Elasticsearch, ELK Stack, Jest, Kubernetes, Selenium, Ghost Inspector, Redis, NATs, RabbitMQ and maybe some other stuff check
 
 ## Hiring Process for technical positions
 

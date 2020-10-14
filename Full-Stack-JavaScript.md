@@ -1,4 +1,4 @@
-> **WE ARE HIRING:** [Apply Now](http://smrtr.io/N-QQ).
+> **WE ARE HIRING:** [Apply Now](https://www.knawat.com/career/).
 
 # Full Stack JavaScript developer (Meteor & React)
 

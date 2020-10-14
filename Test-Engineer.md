@@ -1,4 +1,4 @@
-> **WE ARE HIRING:** [Apply Now](https://jobs.smartrecruiters.com/KnawatCo/743999678562925-software-test-engineer).
+> **WE ARE HIRING:** [Apply Now](https://www.knawat.com/career/).
 
 # Software Test Engineer
 

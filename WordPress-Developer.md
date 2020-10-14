@@ -1,4 +1,4 @@
-> **WE ARE HIRING:** [Apply Now](http://smrtr.io/39dR8).
+> **WE ARE HIRING:** [Apply Now](https://www.knawat.com/career/).
 
 # PHP Developer - (WordPress)
 
