@@ -1,6 +1,8 @@
 # Knawat is hiring
 
-Work remote or join our team @ the lovely Istanbul. For the full list click here https://knawat.com/career
+Work remote or join our team @ the lovely Istanbul. For the full list click here https://knawat.com/career.
+
+Check our stack [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/knawat/knawat)
 
 ## Open vacancies (Software Team)
 
