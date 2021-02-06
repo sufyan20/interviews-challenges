@@ -1,8 +1,8 @@
 > **WE ARE HIRING:** [Apply Now](https://www.knawat.com/career/).
 
-# Full Stack JavaScript developer (Meteor & React)
+# Full Stack JavaScript developer (Meteor & Vue.js)
 
-<strong>TL;DR,</strong> This challenge expects you to build a simple To-Do list page with Meteor Framework, with their default templating system Blaz or React. The page should have add and toggle tasks completion with login and register.
+<strong>TL;DR,</strong> This challenge expects you to build a simple To-Do list page with Meteor Framework, with Vue.js. The page should have add and toggle tasks completion with login and register.
 
 ## Evaluation criteria:
 
