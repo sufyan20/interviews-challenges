@@ -32,7 +32,7 @@ In addition to the functionality, we will also evaluate the code style, code str
 ## Readme:
 
 - Explain how to run the application
-- Requeired environments
+- Required environments
 - Any extra information is PLUS
 
 ## How to submit?
