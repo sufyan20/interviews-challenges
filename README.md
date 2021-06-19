@@ -7,8 +7,8 @@ We are using Moleculer, Docker, Elasticsearch, MongoDB, GCP, Jest, Kubernetes, C
 ## Open vacancies (Software Team)
 
 - [Back-End Developer - Node.js](Back-End-Node.js.md)
-- [Front-End Developer](Front-End-vuejs.md)
-- [Full Stack Developer (Express.js & ReactJS)](Full-Stack-JavaScript.md)
+- [Front-End Developer (Vue.JS)](Front-End-VueJS.md)
+- [Front-End Developer (ReactJS)](Front-End-ReactJS.md)
 - [Software Test Automation](Test-Automation.md)
 - [WordPress Developer](WordPress-Developer.md)
 - ~~[Intern Software Developer](http://smrtr.io/N-Rh)~~
