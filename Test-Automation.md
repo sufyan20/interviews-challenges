@@ -1,6 +1,6 @@
 > **WE ARE HIRING:** [Apply Now](https://www.knawat.com/career/).
 
-# Software Test Engineer
+# Software Test Automation Engineer
 
 <strong>TL;DR,</strong> This challenge expects you to write some e2e tests to accomplish required functionality. You can use any JavaScript testing framework, with any assertation and coverage you like while we prefer Jest or Cypress.
 
