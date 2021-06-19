@@ -6,11 +6,11 @@ We are using Moleculer, Docker, Elasticsearch, MongoDB, GCP, Jest, Kubernetes, C
 
 ## Open vacancies (Software Team)
 
-- [Back-End Developer - Node.js](/Knawat/interviews-challenges/blob/master/Back-End-Node.js.md)
-- [Front-End Developer](/Knawat/interviews-challenges/blob/master/Front-End-vuejs.md)
-- [Full Stack Developer (Express.js & ReactJS)](/Knawat/interviews-challenges/blob/master/Full-Stack-JavaScript.md)
-- [Software Test Automation](/Knawat/interviews-challenges/blob/master/Test-Automation.md)
-- [WordPress Developer](/Knawat/interviews-challenges/blob/master/WordPress-Developer.md)
+- [Back-End Developer - Node.js](Back-End-Node.js.md)
+- [Front-End Developer](Front-End-vuejs.md)
+- [Full Stack Developer (Express.js & ReactJS)](Full-Stack-JavaScript.md)
+- [Software Test Automation](Test-Automation.md)
+- [WordPress Developer](WordPress-Developer.md)
 - ~~[Intern Software Developer](http://smrtr.io/N-Rh)~~
 - ~~[System Analyst (ERP)](http://smrtr.io/N-Rm)~~
 ## Hiring Process for technical positions
