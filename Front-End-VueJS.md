@@ -8,7 +8,7 @@ This challenge expects you to build a simple e-commerce shopping page, with a b
 
 ## Rest API
 
-You can use this API for example to get products, categories, cart ... etc. [REST API](https://limitless-lake-55070.herokuapp.com/swagger-ui.html)
+You can use [this](https://limitless-lake-55070.herokuapp.com/swagger-ui.html) or [this](https://fakestoreapi.com/) API for example to get products, categories, cart ... etc.
 
 ## Functionality:
 
@@ -23,6 +23,7 @@ You can use this API for example to get products, categories, cart ... etc. [RES
 
   2. `Side Menu`
      1. List some categories
+     2. On clikc filter products by category
 
   3. `Products list`
        - List of some products with images, title, price
