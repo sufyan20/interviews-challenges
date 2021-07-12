@@ -6,7 +6,7 @@
         Empty Cart
       </v-btn>
     </v-card>
-    <v-card max-height="300" class="overflow-y-auto pt-2">
+    <v-card :max-height="$vuetify.breakpoint.height <= 568 ? 230 : 300" class="overflow-y-auto pt-2">
       <v-list-item v-for="(item, index) in isCartFilled.cartItems" :key="index">
         <v-card class="pl-3 pr-3 mb-2 col-md-12">
           <v-list-item-content outlined>
