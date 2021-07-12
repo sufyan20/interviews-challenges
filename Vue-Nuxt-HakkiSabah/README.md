@@ -21,7 +21,7 @@ API_URL=
 token=
 API_SECRET=SECRET_KEY
 ```
-#### ** When you define API_URL in your .env file, you must also define the token key. This is because of the definitions that control the "store/api/" folder path.
+#### ** When you define API_URL in your `env` file, you must also define the token key. This is because of the definitions that control the "store/api/" folder path.
 
 #### OR
 
