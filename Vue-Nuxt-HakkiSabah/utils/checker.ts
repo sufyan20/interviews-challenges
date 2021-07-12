@@ -1,7 +1,7 @@
-import { GET_PRODUCTS, PRODUCT } from '~/store/models/product'
+import { PRODUCT } from '~/store/models/product'
 import { GET_CAT } from '~/store/models/category'
-import { product } from '~/store/models/cart'
 
+const seperator = '.'
 export const checker = {
   // We need while loop because we dont want change reorder itself after the every splice method
   // Information from => https://stackoverflow.com/questions/9882284/looping-through-array-and-removing-items-without-breaking-for-loop
@@ -60,7 +60,7 @@ export const checker = {
     products[index].price
       .toString().split('').forEach((char: any) => {
       // We have constant for decimal separator and checking every char for correction
-        if (process.env.DECIMAL_SEPERATOR !== char && isNaN(Number(char))) {
+        if (seperator !== char && isNaN(Number(char))) {
           products.splice(index, 1)
         }
       })

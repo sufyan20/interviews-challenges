@@ -17,7 +17,6 @@ API_URL must have last slash character >> '/' <<
 ### .env contents like **
 
 ```env
-DECIMAL_SEPERATOR="."
 API_URL=
 token=
 API_SECRET=SECRET_KEY
