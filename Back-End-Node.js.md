@@ -37,4 +37,4 @@ In addition to the functionality, we will also evaluate the code style, code str
 
 ## How to submit?
 
-Clone this repo and create a pull request once you feel the code is ready.
+Fork this repo and create a pull request once you feel the code is ready.
