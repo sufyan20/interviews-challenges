@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This challenge expects you to build a simple e-commerce shopping page, with a basic cart functionality, using ReactJS & Next.js as the main front-end framework.
+This challenge expects you to build a simple e-commerce shopping page, with a basic cart functionality, using ReactJS , Nuxt.js, and Tailwind.
 
 ## Rest API
 
