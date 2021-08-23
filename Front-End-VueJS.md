@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This challenge expects you to build a simple e-commerce shopping page, with a basic cart functionality, using Vue.JS & Nuxt.js as the main front-end framework.
+This challenge expects you to build a simple e-commerce shopping page, with a basic cart functionality, using Vue.js, Nuxt.js, and Tailwind.
 
 ## Rest API
 
